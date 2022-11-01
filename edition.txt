@@ -2,4 +2,5 @@ first edition
 second edition
 third edition
 issue resolved
+Merge branch 'testing'
 Hotfix team's solution 
